@@ -26,6 +26,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chengxi0/collections" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Java文件\JavaBaseKonwledge\src\chengxi0\collections" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -49,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576471541281</updated>
       <workItem from="1576471544498" duration="267000" />
-      <workItem from="1577017973231" duration="302000" />
+      <workItem from="1577017973231" duration="559000" />
     </task>
     <servers />
   </component>
