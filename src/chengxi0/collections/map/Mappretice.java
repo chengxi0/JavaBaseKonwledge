@@ -30,7 +30,6 @@ public class Mappretice {
                 map.put(str.charAt(i), 1);
             }
         }
-
         System.out.println(map);
     }
 }
